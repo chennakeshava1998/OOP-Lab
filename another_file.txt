@@ -1,0 +1,3 @@
+I have opened another file using out_file handle
+I have appended to this file
+I have appended to this file
